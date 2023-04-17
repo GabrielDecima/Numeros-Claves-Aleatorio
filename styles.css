@@ -1,0 +1,41 @@
+body{
+    background-color: #fef6e4;
+}
+
+h1{
+    text-align: center;
+    color: #f582ae;
+    margin-bottom: 10px;
+}
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    margin: auto;
+    border: solid 2px #001858;
+    border-radius: 20px;
+    padding: 25px;
+    background-color: #8bd3dd;
+}
+
+.container,input,span{
+    margin-bottom: 10px;
+
+}
+
+.boton{
+    background-color: #f582ae;
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 5px;
+    color:aliceblue;
+}
+
+.visor{
+    margin-top: 20px;
+    color:black;
+}
